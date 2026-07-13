@@ -1,0 +1,12 @@
+{
+  "name": "omniagent-groupchat-relay",
+  "version": "1.0.0",
+  "description": "Minimal WebSocket relay for OmniAgent Group Chat real-time sync",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
